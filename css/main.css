@@ -3,7 +3,7 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family:'Helvetica Neue';
+    font-family:'Montserrat';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -24,7 +24,7 @@ h1 {
 }
 p {
     font-size: 1.5em;
-    font-family:'Helvetica Neue';
+    font-family:'Montserrat';
     line-height: 1.4em;
     color: #333;
 }
