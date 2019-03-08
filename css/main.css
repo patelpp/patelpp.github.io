@@ -1,9 +1,13 @@
+html {
+    font-family:'Lato', sans-serif;
+    font-size:16px;
+    font-size:4vmin;
+}
 body {
     margin: 60px auto;
     width: 70%;
 }
 nav ul, footer ul {
-    font-family:'Montserrat';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -23,8 +27,6 @@ h1 {
     font-size: 3em;
 }
 p {
-    font-size: 1.5em;
-    font-family:'Montserrat';
     line-height: 1.4em;
     color: #333;
 }
