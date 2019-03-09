@@ -1,0 +1,16 @@
+{% include base.html %}
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{ page.title }}</title>
+<!-- link to main stylesheet -->
+<link rel="stylesheet" type="text/css" href="{{ base }}/css/main.css">
+
+{% assign layoutsheets = layout.custom_styles | split: "|" %}
+{% for layoutsheet in layoutsheets %}
+<link rel="stylesheet" type="text/css" href="{{ base }}/css/{{ layoutsheet }}.css">
+{% endfor %}
+
+{% assign stylesheets = page.custom_styles | split: "|" %}
+{% for sheetname in stylesheets %}
+<link rel="stylesheet" type="text/css" href="{{ base }}/css/{{ sheetname }}.css">
+{% endfor %}
