@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hank Quinlan's CV
+title: Resume/CV
 ---
 
 # Resume/CV
