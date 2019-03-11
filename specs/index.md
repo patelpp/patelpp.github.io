@@ -6,7 +6,7 @@ date: 2018-03-11
 ## Current
 
 ### Cerner [>](https://www.cerner.com/)
-Senior Solution Designer and Test Analyst, 2018 - present
+**Senior Solution Designer and Test Analyst, 2018 - present**
 <br>
 ######## Solution Designer and Test Analyst, 2016 - 2018
 <br>
